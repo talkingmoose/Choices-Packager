@@ -1,0 +1,24 @@
+Choices Packager
+© Copyright 2016 William Smith
+bill@talkingmoose.net
+
+
+Purpose
+
+Modifying vendor-supplied Apple Installer packages (.pkg files) is bad practice. Apple's supported method for choosing which options you want to install or not install is to call a choices XML file when installing the package via command line.
+
+Choices Packager makes it easy for an administrator to choose an Apple Installer package, such as Office 2016 for Mac, and choose which optional items you'd like to install and/or not install. It then creates a new package that includes the original installer with a choices XML file that's ready for deployment.
+
+
+Support
+
+This script is works for the most part. Occasionally, it may herp derp. It needs tweaking, cleaning and documenting. Open it using Script Editor and click the Run button. Follow the prompts.
+
+If you find this script useful or have ideas for improving it, please let me know. It was conceived for use with Office 2016 for Mac but should work with any Apple Installer package that offers choices. If you find bugs or would like suggestions for improvement, please open an issue within this project.
+
+
+License
+
+This work is licensed under http://creativecommons.org/licenses/by/4.0/.
+
+This script may be freely modified for personal or commercial purposes but may not be republished for profit without prior consent.
