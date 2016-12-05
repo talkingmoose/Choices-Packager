@@ -12,7 +12,7 @@ Choices Packager makes it easy for an administrator to read an Apple Installer p
 
 Support
 
-This script is works for the most part. Occasionally, it may herp derp. It needs tweaking, cleaning and documenting. To use it open the .scpt file using Script Editor and click the Run button. Follow the prompts.
+This script works for the most part. Occasionally, it may herp derp. It needs tweaking, cleaning and documenting. To use it open the .scpt file using Script Editor and click the Run button. Follow the prompts.
 
 If you find this script useful or have ideas for improving it, please let me know. I conceived this for use with Office 2016 for Mac but it should work with any Apple Installer package that offers choices. If you find bugs or would like to suggest improvements, please open an issue within this project.
 
